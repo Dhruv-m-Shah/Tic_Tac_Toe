@@ -1,0 +1,86 @@
+.circle{
+
+    position: absolute;
+    width:100px;
+    height: 100px;
+    background-color: red;
+    
+    }
+    .box1{
+        position: relative;
+        width: 100px;
+        height: 100px;
+        margin: 4px;
+        background-color: whitesmoke;
+    }
+    .box2{
+        position: relative;
+        left:110px;
+        bottom: 104px;
+        width: 100px;
+        height: 100px;
+        margin: 4px;
+        background-color: whitesmoke;
+    }
+    .box3{
+        position: relative;
+        left:220px;
+        bottom: 208px;
+        width: 100px;
+        height: 100px;
+        margin: 4px;
+        background-color:whitesmoke;
+    }
+    .box4{
+        position: relative;
+        bottom:202px;
+        width: 100px;
+        height: 100px;
+        margin: 4px;
+        background-color: whitesmoke;
+    }
+    .box5{
+        position: relative;
+        bottom: 306px;
+        left: 110px;
+        width: 100px;
+        height: 100px;
+        margin: 4px;
+        background-color: whitesmoke;
+    }
+    .box6{
+        position: relative;
+        bottom:410px;
+        left: 220px;
+        width: 100px;
+        height: 100px;
+        margin: 4px;
+        background-color: whitesmoke;
+    }
+    .box7{
+        position: relative;
+        left:0px;
+        bottom: 402px;
+        width: 100px;
+        height: 100px;
+        margin: 4px;
+        background-color: whitesmoke;
+    }
+    .box8{
+        position: relative;
+        left: 110px;
+        bottom: 506px;
+        width: 100px;
+        height: 100px;
+        margin: 4px;
+        background-color: whitesmoke;
+    }
+    .box9{
+        position: relative;
+        left: 220px;
+        bottom:610px;
+        width: 100px;
+        height: 100px;
+        margin: 4px;
+        background-color: whitesmoke;
+    }
